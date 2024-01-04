@@ -34,7 +34,8 @@ namespace lab5console
                 }
                 void GetB()
                 {
-                    
+                    Console.Write("Введите значение для В: ");
+                    B = Convert.ToDouble(Console.ReadLine());
                 }
                 void Add()
                 {
