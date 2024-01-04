@@ -41,7 +41,7 @@ namespace lab5console
                 }
                 void Sub()
                 {
-                    
+                    Console.WriteLine("Ответ: " + (A - B));
                 }
                 void Mul()
                 {
