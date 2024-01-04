@@ -47,7 +47,7 @@ namespace lab5console
                 }
                 void Mul()
                 {
-                    
+                    Console.WriteLine("Ответ: " + (A * B));
                 }
                 void Div()
                 {
