@@ -29,7 +29,8 @@ namespace lab5console
 
                 void GetA()
                 {
-                    
+                    Console.Write("Введите значение для А: ");
+                    A = Convert.ToDouble(Console.ReadLine());
                 }
                 void GetB()
                 {
