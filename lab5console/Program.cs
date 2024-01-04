@@ -39,7 +39,7 @@ namespace lab5console
                 }
                 void Add()
                 {
-                    
+                    Console.WriteLine("Ответ: " + (A+B));
                 }
                 void Sub()
                 {
